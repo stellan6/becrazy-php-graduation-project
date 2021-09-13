@@ -48,7 +48,7 @@
             </ul>
           </div>
           @endif
-          <form method="POST" action="kttuika">
+          <form method="POST" action="ktform">
             @csrf
             <div class="form-group">
               <label class="control-label">カテゴリーorタグ</label>
