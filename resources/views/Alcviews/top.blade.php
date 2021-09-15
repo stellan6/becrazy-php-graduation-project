@@ -41,7 +41,7 @@
     <div class="row">
       <div class="col-12">
         <div class="card container-fluid">
-          <img class="card-img" src="http://localhost:8000/storage/2021/07/28/9D30531F-C7A8-4534-B43B-11A1B98BF883.jpeg" class="img-fluid" alt="Responsive image">
+          <img class="card-img" src="top.JPEG" class="img-fluid" alt="Responsive image">
           <div class="card-img-overlay">
             <p class="text-white">酒、紹介します。</p>
           </div>
